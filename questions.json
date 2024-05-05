@@ -1,12 +1,12 @@
 [
-    { "question": "What is the capital of Norway?", "answer": "Oslo" },
-    { "question": "What is the largest ocean?", "answer": "Pacific" },
-    { "question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci" },
-    { "question": "What is the chemical symbol for water?", "answer": "H2O" },
-    { "question": "Who wrote 'To Kill a Mockingbird'?", "answer": "Harper Lee" },
-    { "question": "What is the tallest mountain in the world?", "answer": "Mount Everest" },
-    { "question": "What is the capital of Japan?", "answer": "Tokyo" },
-    { "question": "What is the primary language spoken in Brazil?", "answer": "Portuguese" },
-    { "question": "Who discovered penicillin?", "answer": "Alexander Fleming" },
-    { "question": "What is the main ingredient in guacamole?", "answer": "Avocado" }
+    { "spørsmål": "Hva er hovedstaden i Norge?", "svar": "Oslo" },
+    { "spørsmål": "Hva er verdens største hav?", "svar": "Stillehavet" },
+    { "spørsmål": "Hvem malte Mona Lisa?", "svar": "Leonardo da Vinci" },
+    { "spørsmål": "Hva er det kjemiske symbolet for vann?", "svar": "H2O" },
+    { "spørsmål": "Hvem skrev 'To Kill a Mockingbird'?", "svar": "Harper Lee" },
+    { "spørsmål": "Hva er verdens høyeste fjell?", "svar": "Mount Everest" },
+    { "spørsmål": "Hva er hovedstaden i Japan?", "svar": "Tokyo" },
+    { "spørsmål": "Hva er det primære språket som snakkes i Brasil?", "svar": "Portugisisk" },
+    { "spørsmål": "Hvem oppdaget penicillin?", "svar": "Alexander Fleming" },
+    { "spørsmål": "Hva er hovedingrediensen i guacamole?", "svar": "Avokado" }
 ]
