@@ -1,12 +1,18 @@
 [
-    { "spørsmål": "Hva er den vanligste fargebeskrivelsen i digitale bilder for skjermbasert grafikk?", "svar": "RGB" },
-    { "spørsmål": "Hva er grunnlaget for digitale bilder, som består av miniatyrbilder av data?", "svar": "Piksler" },
-    { "spørsmål": "Hva er den primære faktoren som bestemmer bildekvaliteten basert på antall punkter?", "svar": "Oppløsning" },
-    { "spørsmål": "Hva er det kjemiske symbolet for vann?", "svar": "H2O" },
-    { "spørsmål": "Hvem skrev 'To Kill a Mockingbird'?", "svar": "Harper Lee" },
-    { "spørsmål": "Hva er verdens høyeste fjell?", "svar": "Mount Everest" },
-    { "spørsmål": "Hva er hovedstaden i Japan?", "svar": "Tokyo" },
-    { "spørsmål": "Hva er det primære språket som snakkes i Brasil?", "svar": "Portugisisk" },
-    { "spørsmål": "Hvem oppdaget penicillin?", "svar": "Alexander Fleming" },
-    { "spørsmål": "Hva er hovedingrediensen i guacamole?", "svar": "Avokado" }
+    {
+        "spørsmål": "Hva er den vanligste fargebeskrivelsen i digitale bilder for skjermbasert grafikk?",
+        "svar": "RGB",
+        "avhuking": false
+    },
+    {
+        "spørsmål": "Hva er grunnlaget for digitale bilder, som består av miniatyrbilder av data?",
+        "svar": "Piksler",
+        "avhuking": false
+    },
+    {
+        "spørsmål": "Hva er den primære faktoren som bestemmer bildekvaliteten basert på antall punkter?",
+        "svar": "Oppløsning",
+        "avhuking": true,
+        "alternativer": ["Oppløsning", "Størrelse", "Farger", "Detaljer"]
+    }
 ]
