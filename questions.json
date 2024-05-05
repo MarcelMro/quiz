@@ -4,9 +4,7 @@
     { "spørsmål": "Hva er den primære faktoren som bestemmer bildekvaliteten basert på antall punkter?", "svar": "Oppløsning" },
     { "spørsmål": "Hvilken type metoder brukes for å redusere lagrings- og overføringskravene til lydfiler?", "svar": "Kompresjon" },
     { "spørsmål": "Hva kalles raske trykkendringer som sprer seg gjennom ulike medier, inkludert luft?", "svar": "Lydbølger" },
-    { "spørsmål": "Hva er verdens høyeste fjell?", "svar": "Mount Everest" },
-    { "spørsmål": "Hva er hovedstaden i Japan?", "svar": "Tokyo" },
-    { "spørsmål": "Hva er det primære språket som snakkes i Brasil?", "svar": "Portugisisk" },
-    { "spørsmål": "Hvem oppdaget penicillin?", "svar": "Alexander Fleming" },
+    { "spørsmål": "Hvilken komprimeringsmetode brukes ofte for å redusere størrelsen på bildefiler?", "svar": "JPEG" },
+    { "spørsmål": "Hva er navnet på prosessen med å vise flere bilder per sekund for å skape en illusjon av bevegelse?", "svar": "Animasjon" },
     { "spørsmål": "Hva er et sett med instruksjoner eller regler for å løse et problem, ofte brukt i datavitenskap?", "svar": "Algoritme" }
 ]
